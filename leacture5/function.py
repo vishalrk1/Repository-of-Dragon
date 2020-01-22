@@ -1,0 +1,21 @@
+import math
+x=3
+y=4
+z=16
+j=3.1+4.2j
+k=3.2
+l=-2.4
+n=1
+print(float(x))
+print(complex(y))
+print(complex(z))
+print(j)
+print(int(k))
+print(abs(l))
+print(math.ceil(x))
+print(math.exp(x))
+print(math.fabs(k))
+print(math.floor(l))
+print(math.log(y))
+print(math.log10(y))
+print(math.sqrt(z))
